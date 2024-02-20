@@ -1,0 +1,20 @@
+{
+  "name": "nzn",
+  "version": "1.0.0",
+  "type": "module",
+  "license": "MIT",
+  "scripts": {
+    "test": "node --experimental-vm-modules node_modules/jest/bin/jest.js --watchAll"
+  },
+  "dependencies": {
+    "@types/jest": "^29.5.12"
+  },
+  "devDependencies": {
+    "eslint": "^8.0.1",
+    "eslint-config-standard-with-typescript": "^43.0.1",
+    "eslint-plugin-import": "^2.25.2",
+    "eslint-plugin-n": "^15.0.0 || ^16.0.0 ",
+    "eslint-plugin-promise": "^6.0.0",
+    "jest": "^29.7.0"
+  }
+}

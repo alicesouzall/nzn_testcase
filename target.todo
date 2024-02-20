@@ -1,0 +1,5 @@
+✔ Function that takes an array of integers and a target @done(24-02-20 12:41)
+☐ Sort the array in ascending order
+✔ Return the index of the target number if it exists in the array @done(24-02-20 12:30)
+✔ Return -1 if the target number does not exist in the array @done(24-02-20 12:33)
+✔ Return -1 if the array is empty @done(24-02-20 12:37)
