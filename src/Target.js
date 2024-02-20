@@ -1,6 +1,7 @@
 class Target {
     findTargetInArray(nums, target) {
-        return
+        nums.sort((a, b) => a - b)
+        return nums.indexOf(target)
     }
 }
 
